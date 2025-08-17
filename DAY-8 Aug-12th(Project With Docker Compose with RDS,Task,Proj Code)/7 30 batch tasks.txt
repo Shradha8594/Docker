@@ -1,0 +1,30 @@
+Day 01 — Project Deployment
+
+Deploy the Full-Stack new project on AWS (EC2, RDS, S3 if needed).
+Configure application environment variables securely.
+Verify application is accessible and functional.
+
+Day 02 — Monitoring Setup
+
+Deploy the same Full-Stack new project on AWS.
+Set up Prometheus for metrics collection.
+Set up Grafana for visualization and dashboarding.
+
+Day 03 — Infrastructure as Code (IaC)
+
+Use Terraform to provision AWS infrastructure (EC2, networking, security groups, RDS, etc.).
+Deploy the Node.js application automatically via Terraform scripts.
+Store Terraform state securely (e.g., S3 backend with DynamoDB locking).
+
+Day 04 — Containerized Deployment
+
+Containerize the application using Docker.
+Create docker-compose.yml to run backend, frontend, and database.
+Deploy the application using Docker Compose on AWS EC2.
+Test scalability and restart policies.
+
+REF links ::
+
+
+
+Application deployment  process cloud is placed on Readme.md file in project repo  please go through this 
